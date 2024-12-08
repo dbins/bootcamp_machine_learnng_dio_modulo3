@@ -6,9 +6,9 @@ No desafio do terceiro módulo do Bootcampo BairesDev - Machine Learning Practit
 
 Foram utilizadas as seguintes bibliotecas
 
-OpenCV
-Pillow
-Scikit-image
+- OpenCV
+- Pillow
+- Scikit-image
 
 ![DIO](modulo3.jpg)
 
